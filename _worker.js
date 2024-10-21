@@ -44,8 +44,8 @@ https://moist.996.buzz/sub?host=cm80.519530.xyz&uuid=2b0692e2-05f6-4640-b4d6-d1d
 //请将机场订阅链接填入上方
 let urls = [];// https://subs.zeabur.app/clash , https://neko-warp.nloli.xyz/neko_warp.yaml
 
-let subconverter = "apiurl.v1.mk"; //在线订阅转换后端，目前使用肥羊的订阅转换功能。支持自建psub 可自行搭建https://github.com/bulianglin/psub
-let subconfig = "https://raw.githubusercontent.com/cmliu/ACL4SSR/main/Clash/config/ACL4SSR_Online_MultiCountry.ini"; //订阅配置文件，可自行更换
+let subconverter = "subapi.fxxk.dedyn.io"; //在线订阅转换后端，目前使用肥羊的订阅转换功能。支持自建psub 可自行搭建https://github.com/bulianglin/psub
+let subconfig = "https://raw.githubusercontent.com/kmcherry/ACL4SSR/main/Clash/config/ACL4SSR_Online_Full_MultiMode(GSU)"; //订阅配置文件，可自行更换
 
 export default {
 	async fetch (request,env) {
