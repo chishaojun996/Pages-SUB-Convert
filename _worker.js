@@ -10,9 +10,35 @@ let SUBUpdateTime = 6; //更改此次设置订阅更新时间，单位小时
 
 //在以下输入您的自建节点链接或订阅链接，请保留双引号
 let MainData = `
-vless://b7a392e2-4ef0-4496-90bc-1c37bb234904@cf.090227.xyz:443?encryption=none&security=tls&sni=edgetunnel-2z2.pages.dev&fp=random&type=ws&host=edgetunnel-2z2.pages.dev&path=%2F%3Fed%3D2048#%E5%8A%A0%E5%85%A5%E6%88%91%E7%9A%84%E9%A2%91%E9%81%93https%3A%2F%2Ft.me%2FOneZyhCN%E8%8E%B7%E5%8F%96%E6%9B%B4%E5%A4%9A%E8%B5%84%E6%BA%90
-https://sub.xf.free.hr/auto
-https://hy2sub.pages.dev
+vless://23bf117e-16fe-4dfa-8dbf-c305af289d99@gur.gov.ua:2096?encryption=none&security=tls&sni=csj.519530.xyz&fp=random&type=ws&host=csj.519530.xyz&path=%2F%3Fed%3D2560#chishaojun.pages.dev
+vless://80803489-e3db-4cf0-a029-2d505f569999@ip.sb:443?encryption=none&security=tls&sni=cfn.519530.xyz&fp=randomized&type=ws&host=cfn.519530.xyz&path=%2F%3Fed%3D2560#cfn.519530.xyz
+vless://2b0692e2-05f6-4640-b4d6-d1df62a4efee@visa.cn:443?encryption=none&security=tls&sni=cm80.519530.xyz&fp=randomized&type=ws&host=cm80.519530.xyz&path=%2F%3Fed%3D2560#cm80.519530.xyz
+vless://53f64ca2-fca6-487f-8f36-a4b813147777@4chan.org:2096?encryption=none&security=tls&sni=cm.shaojun.filegear-sg.me&fp=randomized&type=ws&host=cm.shaojun.filegear-sg.me&path=%2F%3Fed%3D2560#cm-ed.pages.hk
+vless://72825c52-523d-4c69-9437-f15a82858555@www.whoer.net:2087?encryption=none&security=tls&sni=s.shaojun.filegear-sg.me&fp=randomized&type=ws&host=s.shaojun.filegear-sg.me&path=%2F%3Fed%3D2560#Gmail-s-pages
+vless://5af60c06-addc-452e-aa17-dc313f5f0008@www.whatismyip.com:2053?encryption=none&security=tls&sni=c.shaojun.filegear-sg.me&fp=randomized&type=ws&host=c.shaojun.filegear-sg.me&path=%2F%3Fed%3D2560#Gmail-c-pages
+vless://dee7b895-034f-4f4b-a1cb-96003833de88@www.tinyurl.com:2096?encryption=none&security=tls&sni=h.shaojun.filegear-sg.me&fp=random&type=ws&host=h.shaojun.filegear-sg.me&path=%2F%3Fed%3D2048#h.workers.us
+vless://898f1090-9b28-49a0-9744-0b95f3179c99@www.visa.com.sg:8443?encryption=none&security=tls&sni=w3k.519530.xyz&fp=randomized&type=ws&host=w3k.519530.xyz&path=%2F%3Fed%3D2048#worker-3k.workers.dev
+vless://013d0d43-346d-428f-9df4-82775a647889@www.visa.co.jp:2083?encryption=none&security=tls&sni=kcv.519530.xyz&fp=randomized&type=ws&host=kcv.519530.xyz&path=%2F%3Fed%3D2048#kmcherryvless.workers.dev
+vless://10880103-1f79-47e6-a88e-08b517b05cdc@www.visa.com:8443?encryption=none&security=tls&sni=wyc.519530.xyz&fp=randomized&type=ws&host=wyc.519530.xyz&path=%2F%3Fed%3D2048#worker-yxym.workers.dev
+vless://58e9615f-3fea-49eb-8502-d10d6beeafdd@tfl.gov.uk:2087?encryption=none&security=tls&sni=kc.519530.xyz&fp=randomized&type=ws&host=kc.519530.xyz&path=%2F%3Fed%3D2560#kmcherry.pages.dev
+vless://66159e8d-9c68-4801-83ca-05d26fe1a88b@www.upwork.com:2096?encryption=none&security=tls&sni=pc.519530.xyz&fp=randomized&type=ws&host=pc.519530.xyz&path=%2F%3Fed%3D2560#Pages-chishaojun-TLS
+vless://5cddd29a-587f-4c09-8972-7c03cc139988@fbi.gov:2083?encryption=none&security=tls&sni=j.shaojun.filegear-sg.me&fp=randomized&type=ws&host=j.shaojun.filegear-sg.me&path=%2F%3Fed%3D2560#Gmail-j-pages
+vless://ae4e44e0-72a3-46b4-9cc4-2d39e96ca999@www.visa.com:2053?encryption=none&security=tls&sni=cmwk.shaojun.filegear-sg.me&fp=randomized&type=ws&host=cmwk.shaojun.filegear-sg.me&path=%2F%3Fed%3D2560#cm-wk.workers.jp
+vless://e98f7d71-850b-495b-b1de-239a66100588@www.visa.com.tw:2087?encryption=none&security=tls&sni=wkc.519530.xyz&fp=randomized&type=ws&host=wkc.519530.xyz&path=%2F%3Fed%3D2048#worker-kmcherry.workers.dev
+vless://d50165ce-35d6-4c42-9bf4-53badbd38865@www.visa.com.hk:2053?encryption=none&security=tls&sni=km.519530.xyz&fp=randomized&type=ws&host=km.519530.xyz&path=%2F%3Fed%3D2048#kmcherry.workers.dev
+vless://898f1090-9b28-49a0-9744-0b95f3179c99@www.visa.com.sg:2082?encryption=none&security=none&sni=w3k.chishaojun.top&fp=randomized&type=ws&host=worker-3k.chishaojun.workers.dev&path=%2F%3Fed%3D2048#worker-3k.workers.dev-80
+vless://013d0d43-346d-428f-9df4-82775a647889@www.visa.co.jp:8080?encryption=none&security=none&sni=kcv.chishaojun.top&fp=randomized&type=ws&host=kmcherryvless.chishaojun.workers.dev&path=%2F%3Fed%3D2048#kmcherryvless.workers.dev-80
+vless://e98f7d71-850b-495b-b1de-239a66100588@www.visa.com.tw:2052?encryption=none&security=none&sni=wkc.519530.xyz&fp=randomized&type=ws&host=worker-kmcherry.chishaojun.workers.dev&path=%2F%3Fed%3D2048#worker-kmcherry.workers.dev-80
+vless://d50165ce-35d6-4c42-9bf4-53badbd38865@www.visa.com.hk:2086?encryption=none&security=none&sni=km.cherry.cloudns.org&fp=randomized&type=ws&host=kmcherry.chishaojun.workers.dev&path=%2F%3Fed%3D2048#kmcherry.workers.dev-80
+vless://ae4e44e0-72a3-46b4-9cc4-2d39e96ca999@www.gov.ua:2052?encryption=none&security=none&sni=vl-tc-jp.chishaojun-f51.workers.dev&fp=randomized&type=ws&host=cmwk.shaojun.filegear-sg.me&path=%2F%3Fed%3D2560#cmwk.workers.jp-80
+vless://10880103-1f79-47e6-a88e-08b517b05cdc@www.authy.com:2052?encryption=none&security=none&sni=wyc.chishaojun.top&fp=randomized&type=ws&host=worker-yxym.chishaojun.workers.dev&path=%2F%3Fed%3D2048#worker-yxym.workers.dev-80
+vless://dee7b895-034f-4f4b-a1cb-96003833de88@www.zsu.gov.ua:80?encryption=none&security=none&sni=vlw-cm-us.chishaojun-f51.workers.dev&fp=randomized&type=ws&host=h.shaojun.filegear-sg.me&path=%2F%3Fed%3D2560#h.workers.us-80
+vless://2b0692e2-05f6-4640-b4d6-d1df62a4efee@ip.sb:2052?encryption=none&security=tls&sni=cm80.519530.xyz&fp=randomized&type=ws&host=cm80.519530.xyz&path=%2F%3Fed%3D2560#edgetunnel-cm80-80
+vless://80803489-e3db-4cf0-a029-2d505f569999@visa.cn:2052?encryption=none&security=tls&sni=cfn.519530.xyz&fp=randomized&type=ws&host=cfn.519530.xyz&path=%2F%3Fed%3D2560#edgetunnel-cfn-80
+https://h.shaojun.filegear-sg.me/dee7b895-034f-4f4b-a1cb-96003833de88
+https://cm.shaojun.filegear-sg.me/53f64ca2-fca6-487f-8f36-a4b813147777
+https://cmwk.shaojun.filegear-sg.me/ae4e44e0-72a3-46b4-9cc4-2d39e96ca999
+https://moist.996.buzz/sub?host=cm80.519530.xyz&uuid=2b0692e2-05f6-4640-b4d6-d1df62a4efee
 `
 
 //请将机场订阅链接填入上方
