@@ -1,11 +1,11 @@
 
 // 部署完成后在网址后面输入/，加上下方设置的mytoken=的值，即可获取聚合后的节点
 
-let mytoken = 'auto'; //可根据需要自行设定，或者使用UUID在线生成网站进行生成：https://1024tools.com/uuid
-let BotToken =''; //可以为空，或电报@BotFather关注机器人，输入/start，选择：/newbot进行获取
-let ChatID =''; //可以为空，或电报@userinfobot中获取，选择：/start进行获取
+let mytoken = 'cc'; //可根据需要自行设定，或者使用UUID在线生成网站进行生成：https://1024tools.com/uuid
+let BotToken ='7029886039:AAHMIuwBXP6Pwr9Oc-brRe1s1YnWvmGS0Vs'; //可以为空，或电报@BotFather关注机器人，输入/start，选择：/newbot进行获取
+let ChatID ='377138912'; //可以为空，或电报@userinfobot中获取，选择：/start进行获取
 let TG = 0; //新手勿动， 开发者选项，1 为推送所有的访问信息，0 为不推送订阅转换后端的访问信息与异常访问
-let FileName = 'Pages-SUB-Convert';
+let FileName = 'Pages-SUB-Vless-HJ';
 let SUBUpdateTime = 6; //更改此次设置订阅更新时间，单位小时
 
 //在以下输入您的自建节点链接或订阅链接，请保留双引号
